@@ -50,7 +50,7 @@ objShell.Run command, 0, False   ' 0 = hidden window
      ```
    - **Start in:**  
      ```
-     C:\Program Files\Mozilla Thunderbird
+     "C:\Program Files\Mozilla Thunderbird"
      ```
    - (Optional) Set the icon to the Thunderbird executable for clarity.
 
