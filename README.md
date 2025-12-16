@@ -5,6 +5,11 @@ right-click, and choose **Send to → Thunderbird**.
 
 A single Thunderbird compose window opens with all selected files attached, and no console window flashes.
 
+https://github.com/DisasterofPuppets/Add_Thunderbird_SendTo_Context_menu/blob/main/SendTo.png
+
+
+https://github.com/DisasterofPuppets/Add_Thunderbird_SendTo_Context_menu/blob/main/Thunderbird_Compose.png
+
 ## Instructions
 
 1. Either copy and paste the below vbs code into a new text file and name it Thunderbird.vbs or download [ThunderBird.vbs](https://github.com/DisasterofPuppets/Add_Thunderbird_SendTo_Context_menu/blob/main/ThunderBird.vbs) from the code repo.
