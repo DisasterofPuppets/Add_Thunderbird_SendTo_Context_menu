@@ -7,7 +7,7 @@ A single Thunderbird compose window opens with all selected files attached, and 
 
 ## Instructions
 
-1. Either copy and paste the below vbs code into a new text file and name it Thunderbird.vbs or download [Thunderbird.vbs](https://github.com/DisasterofPuppets/Add_Thunderbird_SendTo_Context_menu/blob/main/ThunderBird.vbs) from the code repo.
+1. Either copy and paste the below vbs code into a new text file and name it Thunderbird.vbs or download [ThunderBird.vbs](https://github.com/DisasterofPuppets/Add_Thunderbird_SendTo_Context_menu/blob/main/ThunderBird.vbs) from the code repo.
 
 2. Save `Thunderbird.vbs` into into a stable location. (I put mine on my backup drive)
 
@@ -39,7 +39,7 @@ objShell.Run command, 0, False   ' 0 = hidden window
    ```
    C:\Users\<YOU>\AppData\Roaming\Microsoft\Windows\SendTo
    ```
-4. Create a new shortcut named **Thunderbird** with these properties: (or grab [ThunderBird.lnk] (https://github.com/DisasterofPuppets/Add_Thunderbird_SendTo_Context_menu/blob/main/ThunderBird.lnk) from the code files, paste, right click > properties, and update the link to your ThunderBird.vbs file
+4. Create a new shortcut named **Thunderbird** with these properties: (or grab [ThunderBird.lnk](https://github.com/DisasterofPuppets/Add_Thunderbird_SendTo_Context_menu/blob/main/ThunderBird.lnk) from the code files, paste, right click > properties, and update the link to your ThunderBird.vbs file
    - **Target:**  
      ```
      C:\Windows\System32\wscript.exe "Y:\The Folder\Where You Saved\ThunderBird.vbs"
